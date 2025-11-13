@@ -1,0 +1,201 @@
+age ,income,city,channel,purchases,loyalty,target
+59,125839.0,New York,email,2,gold,1
+49,146183.0,New York,store,3,bronze,1
+35,,Chicago,store,4,silver,1
+63,148451.0,New York,store,1,bronze,0
+28,84384.0,New York,web,2,bronze,0
+41,81005.0,San Francisco,store,2,gold,0
+59,76576.0,New York,email,2,bronze,1
+39,69353.0,Austin,store,0,silver,0
+43,92003.0,Austin,store,3,silver,1
+31,113211.0,Chicago,email,1,bronze,0
+31,82733.0,New York,store,4,silver,0
+44,95318.0,Chicago,web,3,gold,1
+56,139953.0,Austin,web,5,bronze,1
+60,119474.0,New York,web,2,gold,0
+44,53664.0,New York,email,0,silver,0
+23,97172.0,Chicago,store,1,silver,0
+42,115616.0,Austin,web,2,silver,0
+22,123264.0,New York,email,6,bronze,1
+44,145386.0,Chicago,store,2,gold,1
+64,56736.0,Austin,email,3,gold,1
+50,124209.0,Chicago,web,1,silver,1
+58,133041.0,San Francisco,web,4,silver,1
+22,142859.0,New York,web,3,silver,1
+41,142181.0,San Francisco,email,6,bronze,1
+53,30854.0,Austin,email,4,silver,0
+32,120084.0,San Francisco,web,4,silver,0
+42,68623.0,San Francisco,email,6,silver,1
+64,37392.0,Austin,web,0,silver,0
+45,85680.0,Chicago,web,2,bronze,0
+69,76717.0,San Francisco,store,3,bronze,0
+47,149937.0,Chicago,email,3,bronze,1
+62,117092.0,San Francisco,web,6,bronze,0
+48,80859.0,Chicago,web,3,silver,0
+36,134095.0,Austin,email,4,silver,1
+35,56309.0,San Francisco,store,2,silver,1
+67,117455.0,Austin,store,3,bronze,1
+64,93734.0,San Francisco,web,1,silver,1
+23,100467.0,Austin,email,2,bronze,1
+57,82662.0,Austin,store,5,bronze,1
+27,128506.0,San Francisco,email,1,silver,0
+41,139751.0,San Francisco,email,1,gold,0
+29,148906.0,San Francisco,web,3,bronze,0
+59,42688.0,New York,store,3,bronze,0
+38,55342.0,Chicago,web,4,bronze,0
+24,67157.0,New York,store,2,bronze,1
+45,97863.0,New York,store,4,silver,0
+34,136308.0,Austin,store,5,bronze,1
+29,82083.0,San Francisco,store,4,silver,0
+46,136081.0,Chicago,store,1,bronze,0
+22,95733.0,Austin,email,2,bronze,0
+40,119045.0,New York,web,3,bronze,1
+48,64698.0,San Francisco,email,1,bronze,0
+67,140078.0,Austin,store,0,bronze,0
+27,110623.0,San Francisco,web,5,bronze,1
+64,52671.0,Austin,store,7,silver,1
+28,55184.0,San Francisco,web,3,bronze,0
+67,123384.0,New York,email,4,gold,1
+55,72107.0,Chicago,web,4,bronze,0
+34,116202.0,New York,web,3,silver,1
+37,139893.0,Chicago,web,2,silver,1
+56,81663.0,San Francisco,web,0,silver,0
+60,45708.0,Austin,web,2,silver,1
+24,121906.0,New York,store,4,silver,1
+22,79811.0,Chicago,web,5,silver,1
+26,32811.0,New York,web,0,silver,1
+62,86250.0,Chicago,email,6,silver,1
+24,142547.0,New York,web,5,bronze,1
+49,102082.0,Chicago,email,6,bronze,1
+38,64754.0,Chicago,store,2,silver,0
+46,125742.0,San Francisco,web,3,silver,1
+64,136642.0,Chicago,email,4,silver,1
+54,41411.0,San Francisco,email,6,silver,1
+30,32911.0,Chicago,store,4,gold,0
+56,97270.0,Austin,web,4,bronze,0
+34,113763.0,Austin,web,4,bronze,1
+51,38680.0,Austin,email,6,bronze,1
+68,114896.0,Chicago,web,2,bronze,1
+35,113879.0,San Francisco,email,3,silver,0
+28,101295.0,San Francisco,web,3,bronze,0
+34,118614.0,Chicago,email,2,silver,0
+43,130689.0,Austin,web,3,bronze,0
+60,41111.0,Austin,store,1,silver,0
+41,67504.0,San Francisco,web,3,silver,1
+36,31802.0,Austin,web,1,bronze,0
+65,38155.0,New York,store,3,silver,1
+38,103656.0,San Francisco,web,3,bronze,1
+67,69384.0,Austin,store,3,bronze,0
+44,142561.0,San Francisco,web,6,bronze,1
+46,77254.0,New York,email,3,bronze,0
+45,51918.0,San Francisco,email,0,bronze,0
+65,115981.0,San Francisco,web,3,silver,1
+61,90713.0,San Francisco,web,3,silver,1
+49,60306.0,San Francisco,web,3,silver,1
+35,46646.0,New York,email,2,bronze,0
+65,76843.0,Chicago,web,4,silver,1
+21,126601.0,San Francisco,email,4,bronze,0
+45,120735.0,San Francisco,store,5,bronze,1
+27,,Austin,email,1,gold,1
+29,46371.0,San Francisco,email,8,bronze,1
+44,107371.0,Austin,store,2,silver,0
+21,141472.0,Chicago,email,5,silver,1
+64,32049.0,New York,web,7,bronze,1
+28,61616.0,New York,web,2,bronze,0
+44,133727.0,Chicago,email,3,bronze,0
+31,142893.0,New York,web,7,gold,1
+37,50932.0,Chicago,email,0,bronze,0
+28,147796.0,Chicago,web,5,bronze,0
+55,59855.0,Chicago,web,3,bronze,0
+55,91434.0,New York,email,3,silver,1
+53,102694.0,Austin,web,4,bronze,0
+25,,Chicago,email,2,bronze,0
+62,37400.0,San Francisco,web,7,silver,1
+59,147858.0,New York,web,3,gold,1
+61,72642.0,Chicago,store,1,bronze,0
+48,45151.0,Chicago,store,2,bronze,0
+27,81407.0,San Francisco,email,5,bronze,1
+29,96690.0,Austin,store,3,silver,1
+28,34499.0,Austin,email,2,bronze,0
+32,,Austin,store,8,silver,1
+54,89040.0,Chicago,web,3,silver,0
+53,42183.0,Chicago,email,5,silver,1
+68,59299.0,Chicago,email,3,bronze,1
+43,42874.0,New York,web,2,gold,0
+44,146336.0,San Francisco,email,1,silver,1
+57,62711.0,Chicago,email,1,silver,0
+55,35539.0,San Francisco,store,1,bronze,0
+64,,San Francisco,email,5,gold,1
+60,83351.0,Austin,web,10,bronze,1
+42,91267.0,New York,store,1,bronze,1
+47,78354.0,Chicago,store,4,bronze,1
+55,32557.0,Austin,web,2,silver,1
+21,68360.0,Austin,web,1,bronze,0
+55,112018.0,Chicago,store,2,bronze,0
+57,32200.0,San Francisco,email,4,bronze,1
+67,142476.0,Austin,store,5,bronze,1
+34,98497.0,San Francisco,web,6,silver,1
+23,76975.0,New York,store,4,silver,1
+21,51357.0,San Francisco,web,3,bronze,0
+25,149121.0,New York,store,0,bronze,0
+46,107505.0,San Francisco,email,1,silver,0
+34,32869.0,Austin,store,0,bronze,0
+59,91135.0,Austin,store,3,bronze,1
+47,,New York,web,1,gold,1
+29,142296.0,Chicago,web,2,silver,0
+35,124179.0,New York,web,5,bronze,1
+35,120272.0,New York,store,1,silver,1
+46,68467.0,San Francisco,email,1,bronze,0
+62,53328.0,San Francisco,web,3,silver,1
+33,149181.0,New York,web,7,bronze,1
+52,121412.0,Austin,store,4,bronze,1
+59,116831.0,San Francisco,web,0,bronze,0
+69,33987.0,Chicago,email,1,gold,1
+52,88871.0,San Francisco,email,5,silver,1
+24,52399.0,San Francisco,web,3,bronze,0
+50,76214.0,Chicago,web,6,bronze,1
+57,129522.0,New York,store,4,silver,1
+43,,Chicago,email,1,bronze,1
+59,100271.0,New York,email,1,bronze,1
+65,74064.0,New York,web,4,gold,1
+35,100091.0,New York,store,0,bronze,0
+63,137450.0,Chicago,email,1,silver,1
+49,70818.0,New York,email,4,gold,1
+56,75525.0,Austin,store,2,bronze,1
+33,49830.0,Chicago,store,8,bronze,1
+52,47429.0,Austin,email,1,bronze,1
+27,36893.0,New York,email,3,silver,1
+42,146381.0,San Francisco,store,5,gold,1
+48,109909.0,New York,email,0,silver,0
+22,77333.0,Austin,web,3,bronze,0
+62,33436.0,Austin,web,3,silver,1
+65,104290.0,Chicago,store,1,gold,1
+26,106213.0,San Francisco,store,2,silver,0
+48,35895.0,Chicago,store,0,gold,0
+48,49738.0,Austin,web,2,silver,0
+64,,New York,email,0,silver,0
+64,79377.0,San Francisco,web,3,silver,1
+40,78404.0,New York,email,5,bronze,0
+50,84045.0,New York,web,3,bronze,0
+31,127888.0,San Francisco,email,3,silver,0
+48,69790.0,Chicago,web,4,bronze,1
+45,137455.0,New York,store,4,gold,1
+59,35600.0,Austin,web,3,gold,1
+53,124660.0,New York,email,6,silver,1
+21,123179.0,San Francisco,web,3,bronze,0
+47,70764.0,San Francisco,web,7,bronze,1
+33,104543.0,San Francisco,web,5,bronze,1
+61,75714.0,Chicago,store,2,silver,0
+23,86835.0,New York,web,1,silver,1
+59,132946.0,Chicago,store,2,gold,1
+26,139616.0,Chicago,store,0,bronze,0
+28,,San Francisco,web,4,gold,1
+47,103744.0,San Francisco,web,1,gold,1
+29,,Chicago,web,4,bronze,1
+57,48589.0,New York,email,2,gold,1
+53,73484.0,Austin,web,3,bronze,0
+62,112989.0,Chicago,store,6,bronze,1
+64,66212.0,New York,web,5,silver,0
+44,73525.0,San Francisco,email,1,bronze,0
+35,77202.0,San Francisco,web,2,silver,0
+52,62635.0,New York,email,3,silver,1

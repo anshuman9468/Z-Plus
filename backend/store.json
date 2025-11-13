@@ -1,0 +1,101 @@
+{
+  "71c5ae77-86f6-401c-9ed8-17a80b34de8f": {
+    "run_id": "71c5ae77-86f6-401c-9ed8-17a80b34de8f",
+    "run_name": null,
+    "proof": {
+      "run_id": "71c5ae77-86f6-401c-9ed8-17a80b34de8f",
+      "proof_hash": "ba8cbeb31e2df2d57e10001e3f4b05dacbeb6f6e64b0223ad6218d67f6915490",
+      "nonce": "316d9d9d258cc21214875d8dd0bb9f8e",
+      "timestamp": "2025-11-13T16:48:21.768576+00:00",
+      "model_summary": "logistic_regression|params={\"C\": 1.0, \"class_weight\": null, \"dual\": false, \"fit_intercept\": true, \"intercept_scaling\": 1, \"l1_ratio\": null, \"max_iter\": 1000, \"multi_class\": \"auto\", \"n_jobs\": null, \"penalty\": \"l2\", \"random_state\": 42, \"solver\": \"lbfgs\", \"tol\": 0.0001, \"verbose\": 0, \"warm_start\": false}|weights_hash=d2d1fe41d72438ccf6e120ffc4c79837d55e898d164605ebf7b29f8f6b2da5b2",
+      "data_hash": "9fff749a4a0846a21ee71ea3c0e3e26430c1ad0eb9e2ce21cefb9bb8d6f2efed",
+      "notes": "Simulated ZKP. Production = real zkML."
+    },
+    "metrics": {
+      "accuracy": 0.6041666666666666,
+      "precision": 0.6538461538461539,
+      "recall": 0.6296296296296297,
+      "f1": 0.6415094339622641
+    },
+    "sample_predictions": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "created_at": "2025-11-13T16:48:21.768655+00:00",
+    "warnings": []
+  },
+  "bab7a9ba-f240-44c2-8aad-571a42fe1de4": {
+    "run_id": "bab7a9ba-f240-44c2-8aad-571a42fe1de4",
+    "run_name": null,
+    "proof": {
+      "run_id": "bab7a9ba-f240-44c2-8aad-571a42fe1de4",
+      "proof_hash": "b10ab6bd5b79ab506c796d904c263ee062d8b7f55767c8e481920697b7f70abb",
+      "nonce": "c0b0811f19fc0e7d7e748c16f556d31e",
+      "timestamp": "2025-11-13T16:48:22.084266+00:00",
+      "model_summary": "logistic_regression|params={\"C\": 1.0, \"class_weight\": null, \"dual\": false, \"fit_intercept\": true, \"intercept_scaling\": 1, \"l1_ratio\": null, \"max_iter\": 1000, \"multi_class\": \"auto\", \"n_jobs\": null, \"penalty\": \"l2\", \"random_state\": 42, \"solver\": \"lbfgs\", \"tol\": 0.0001, \"verbose\": 0, \"warm_start\": false}|weights_hash=db858d0568d9fc98ddaad1271e0fb9b9f59083e126bab5d0a1e452227e4c5b96",
+      "data_hash": "1b74cb70ac53712a082fa735c5b251ff6e839f90696b31e54c2f0c91baba0627",
+      "notes": "Simulated ZKP. Production = real zkML."
+    },
+    "metrics": {
+      "accuracy": 0.68,
+      "precision": 0.68,
+      "recall": 1.0,
+      "f1": 0.8095238095238095
+    },
+    "sample_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "created_at": "2025-11-13T16:48:22.084307+00:00",
+    "warnings": []
+  },
+  "77ab1a86-1675-49be-9ecb-9121dfd74c5e": {
+    "run_id": "77ab1a86-1675-49be-9ecb-9121dfd74c5e",
+    "run_name": null,
+    "proof": {
+      "run_id": "77ab1a86-1675-49be-9ecb-9121dfd74c5e",
+      "proof_hash": "23769047bc5ad1d020c3600319fde6193ce5f6b82fb262b326981814fdc0a506",
+      "nonce": "a3c26ee05bb565e5159d15e278fe5177",
+      "timestamp": "2025-11-13T16:48:22.103642+00:00",
+      "model_summary": "decision_tree|params={\"ccp_alpha\": 0.0, \"class_weight\": null, \"criterion\": \"gini\", \"max_depth\": null, \"max_features\": null, \"max_leaf_nodes\": null, \"min_impurity_decrease\": 0.0, \"min_samples_leaf\": 1, \"min_samples_split\": 2, \"min_weight_fraction_leaf\": 0.0, \"monotonic_cst\": null, \"random_state\": 42, \"splitter\": \"best\"}|weights_hash=93df048fa2d146f2bd045eb38261a7fb10d4857f637020508e0428d67830ed3c",
+      "data_hash": "9fff749a4a0846a21ee71ea3c0e3e26430c1ad0eb9e2ce21cefb9bb8d6f2efed",
+      "notes": "Simulated ZKP. Production = real zkML."
+    },
+    "metrics": {
+      "accuracy": 0.5208333333333334,
+      "precision": 0.5909090909090909,
+      "recall": 0.48148148148148145,
+      "f1": 0.5306122448979592
+    },
+    "sample_predictions": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "created_at": "2025-11-13T16:48:22.103677+00:00",
+    "warnings": []
+  }
+}
