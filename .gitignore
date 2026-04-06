@@ -1,1 +1,32 @@
-node_modules
+# React Frontend
+"Z+ Website UI Design (1)/node_modules/"
+"Z+ Website UI Design (1)/build/"
+"Z+ Website UI Design (1)/dist/"
+"Z+ Website UI Design (1)/.env"
+"Z+ Website UI Design (1)/.DS_Store"
+
+# Django Backend
+"Z plus/venv/"
+"Z plus/node_modules/"
+"Z plus/db.sqlite3"
+"Z plus/media/"
+"Z plus/__pycache__/"
+"Z plus/*.pyc"
+"Z plus/*.pyo"
+"Z plus/*.pyd"
+"Z plus/.DS_Store"
+"Z plus/.env"
+
+# General
+.DS_Store
+*.log
+*.tmp
+__pycache__/
+venv/
+node_modules/
+build/
+dist/
+.env
+.python-version
+*.py[cod]
+*$py.class

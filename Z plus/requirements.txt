@@ -1,0 +1,6 @@
+Django>=4.0
+pandas
+numpy
+django-cors-headers
+scikit-learn
+openpyxl
